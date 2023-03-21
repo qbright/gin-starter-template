@@ -1,0 +1,14 @@
+server:
+   port: 8080
+
+db:
+   username: root
+   addr: 127.0.0.1:3306
+   pass: pass
+   dbname: dbname
+
+
+logLevel: "debug"
+
+mode: "debug"
+
